@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+
+# Keep employer/run data out of the repo
+xray_cache/
+*.parquet
+*.pbix
+*.csv
+*.xlsx
+.env
